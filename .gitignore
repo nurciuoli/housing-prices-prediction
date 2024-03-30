@@ -2,6 +2,7 @@
 /data
 /submissions
 temp.txt
+/archive
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
